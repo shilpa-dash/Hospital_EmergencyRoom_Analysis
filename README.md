@@ -39,7 +39,9 @@ A detailed, drillable table listing individual patient records — Patient ID, N
 ## Screenshots
 
   ![Dashboard](Hospital_EmergencyRoom_Analysis/Dashboard-1.png)
+  
   ![Dashboard](Hospital_EmergencyRoom_Analysis/Dashboard-2.png)
+  
   ![Dashboard](Hospital_EmergencyRoom_Analysis/Dashboard-3.png)
 
   ## Author
